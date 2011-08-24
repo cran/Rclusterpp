@@ -1,4 +1,4 @@
-9cc84ba29ebe57543961aa224eb47ef8 *DESCRIPTION
+c29f90054213acc195334001b074b74e *DESCRIPTION
 b51e27da2a75da14d516c3dfe243f75c *NAMESPACE
 b96c23e536131dbcdbe1906c8d55feec *R/Rclusterpp.hclust.R
 d71305d827ea7fd04e2382c94b24d3cf *R/Rclusterpp.package.skeleton.R
@@ -7,7 +7,7 @@ d71305d827ea7fd04e2382c94b24d3cf *R/Rclusterpp.package.skeleton.R
 5fd454fd9fb6a30739194219e229f9ca *README.md
 9916b6a118863f89432f811aa3bd8848 *cleanup
 bcd0e3dd2380ca9c4825ededccd14ed8 *configure
-e9784e2915b1498e9f054f0547a6687a *configure.ac
+75b46433429f15e5b227b3e661bf53dd *configure.ac
 a92fee37a9a3673f25b3b48595a4f2a3 *inst/examples/benchmark.R
 99d5c2b07cb3a0990e5813dd39b0c940 *inst/examples/clustering.R
 2c10ede0fcddb36e9aa44d5864c794b0 *inst/examples/memory_test.R
@@ -30,8 +30,8 @@ a6c66d43d3c84606734b82814ec998ab *inst/skeleton/configure.ac
 895754dfacd1c07339d40a35fd1468e5 *inst/skeleton/rclusterpp_hello_world.cpp
 e4d4c7affb5ef3efe6baad9487161212 *inst/skeleton/rclusterpp_hello_world.h
 3563ae05b76bc0a484bfaa10f9bf2725 *inst/unit_tests/Makefile
-8e32f74785f49cda52c1a9a7aed4b432 *inst/unit_tests/report.txt
-e9c9edc01181f3b17ad0b90e34789cc6 *inst/unit_tests/reportSummary.txt
+f76750e083aa21b1ab089664c15d9d63 *inst/unit_tests/report.txt
+f7af4ba75c1d43fd9fd71c7ef3c02ed8 *inst/unit_tests/reportSummary.txt
 adca8f2ac80df3287c1875a5ffbb3f27 *inst/unit_tests/runit.hclust.R
 371cb2bc7cfe24f0ccb2bff11a5ce7ad *inst/unit_tests/runit.storedistance.R
 7f814b43e18784fbe1d90ee421ad89c8 *man/Rclusterpp-package.Rd
@@ -41,5 +41,5 @@ e355f8a045b0d13c4362011de8e3193b *man/Rclusterpp.package.skeleton.Rd
 57faa305350bf49ed84f9426acc22b29 *src/Makevars
 47f03d390a1c71eae3eeb2727ae7d57a *src/Makevars.in
 d3de209b21f7e9ec2d24f184d392ef7f *src/Makevars.win
-00efc6f88e01ec5b4948847694d443d4 *src/hclust.cpp
+d1f4d2a1b51ed76ae308412f0caa96fb *src/hclust.cpp
 2be6ad111809e3ffed3099c13d3a91e4 *tests/doRUnit.R
