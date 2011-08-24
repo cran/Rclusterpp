@@ -1,0 +1,37 @@
+RUNIT TEST PROTOCOL -- Sun Dec  9 12:37:40 2012 
+*********************************************** 
+Number of test functions: 14 
+Number of errors: 0 
+Number of failures: 0 
+
+ 
+1 Test Suite : 
+Rclusterpp unit testing - 14 test functions, 0 errors, 0 failures
+
+
+
+Details 
+*************************** 
+Test Suite: Rclusterpp unit testing 
+Test function regexp: ^test.+ 
+Test file regexp: ^runit.+\.[rR]$ 
+Involved directory: 
+/Users/mlinderm/research/mssm/R/Rclusterpp/tests/../inst/unit_tests 
+--------------------------- 
+Test file: /Users/mlinderm/research/mssm/R/Rclusterpp/tests/../inst/unit_tests/runit.hclust.R 
+test.hclust.average.euclidean: (4 checks) ... OK (0.02 seconds)
+test.hclust.average.manhattan: (4 checks) ... OK (0.01 seconds)
+test.hclust.average.maximum: (1 checks) ... OK (0.01 seconds)
+test.hclust.average.minkowski: (4 checks) ... OK (0.01 seconds)
+test.hclust.complete.euclidean: (4 checks) ... OK (0.01 seconds)
+test.hclust.single.euclidean: (4 checks) ... OK (0 seconds)
+test.hclust.single.manhattan: (1 checks) ... OK (0 seconds)
+test.hclust.single.maximum: (1 checks) ... OK (0 seconds)
+test.hclust.single.minkowski: (4 checks) ... OK (0 seconds)
+test.hclust.ward: (4 checks) ... OK (0.01 seconds)
+--------------------------- 
+Test file: /Users/mlinderm/research/mssm/R/Rclusterpp/tests/../inst/unit_tests/runit.storedistance.R 
+test.storedistance.average.euclidean: (4 checks) ... OK (0.01 seconds)
+test.storedistance.average.manhattan: (4 checks) ... OK (0.01 seconds)
+test.storedistance.complete.euclidean: (4 checks) ... OK (0.01 seconds)
+test.storedistance.single.euclidean: (4 checks) ... OK (0.01 seconds)
