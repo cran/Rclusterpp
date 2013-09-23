@@ -20,3 +20,6 @@ require the [inline](http://cran.r-project.org/web/packages/inline/index.html) p
 Rclusterpp uses OpenMP internally for concurrent execution. By default, as many
 threads as processors are created. To control the number of threads set the
 `OMP_NUM_THREADS` environment variable.
+
+## Installation
+Rclusterpp installation instructions can be found on the [project wiki](https://github.com/nolanlab/Rclusterpp/wiki/Getting-Started).
